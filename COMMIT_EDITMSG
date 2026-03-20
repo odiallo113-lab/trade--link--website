@@ -1,0 +1,10 @@
+Add Vercel deployment configuration and serverless function setup
+
+Configure the project for Vercel deployment by creating `vercel.json`, `api/index.ts` as a serverless function, and `tsconfig.server.json`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: c1cae2c0-e641-4a27-8ece-7e2f207117f0
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: fd7da624-0a20-4684-afcc-65ed1d976280
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/a1a84afe-0ea6-4065-b97e-94964427d6ff/c1cae2c0-e641-4a27-8ece-7e2f207117f0/QCjx7m6
+Replit-Helium-Checkpoint-Created: true
